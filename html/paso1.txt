@@ -1,0 +1,4 @@
+git init 
+git commit -m "first commit" 
+git remote add origin https://github.com/Adriana8791/htmlejercicio.git
+ git push - u origen principal
