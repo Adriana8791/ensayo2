@@ -5,9 +5,13 @@
     padding: 0px;
 }
 
+* {
+    outline: 1px solid coral;
+}
+
 #wrapper {
     width: 970px;
-    background-color: blue;
+    background-color: darkblue;
     margin: 0px auto;
     padding: 15px;
 }
@@ -16,6 +20,15 @@
     min-height: 150px;
     background: color #cf3036;
     margin-bottom: 20px;
+}
+
+.header {
+    margin: 5px;
+    width: 800px;
+    background-color: #cf2f36;
+    padding: 5px;
+    border-radius: 25px;
+    color: #c2d6ec;
 }
 
 #navigation {
@@ -34,4 +47,8 @@
     display: inline-block;
     vertical-align: top;
     padding: 15px;
+}
+
+.footer {
+    background-color: #5d6673;
 }

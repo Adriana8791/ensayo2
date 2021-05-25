@@ -1,0 +1,108 @@
+element.style {}
+
+#main_content #section_content .content_block #module_container .module_content img {
+    max-width: 100%;
+}
+
+.module_description img {
+    height: auto;
+}
+
+.module_description img {
+    width: auto;
+    max-width: 100%;
+}
+
+img {
+    vertical-align: middle;
+}
+
+img {
+    border: 0;
+}
+
+* {
+    font-family: Gotham-Rounded-Book;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#main_content #section_content .content_block #module_container p {
+    line-height: 1.8em;
+    padding: -1px 32px;
+}
+
+.module_description,
+.module_description:focus,
+.module_description div,
+.module_description p,
+.module_description ol,
+.module_description pre {
+    font-size: 14px;
+}
+
+.module_description,
+.module_description:focus {
+    position: relative;
+    outline: none;
+    box-shadow: none !important;
+    padding: 0px 32px;
+    padding-bottom: 5px;
+    margin: 0 !important;
+    background: none;
+    background: #fff !important;
+    white-space: normal;
+}
+
+#main_content #section_content .content_block #module_container .module_content {
+    color: #505050;
+}
+
+#main_content #section_content .content_block #module_container {
+    color: #505050;
+    font-family: Gotham-Rounded-Book !important;
+    padding-bottom: 24px;
+    padding-top: 24px;
+}
+
+#activate_menu_checkbox:checked~#main_content {
+    padding-left: 244px;
+    font-family: Gotham-Rounded-Book;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+    background-color: #ffffff;
+}
+
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
